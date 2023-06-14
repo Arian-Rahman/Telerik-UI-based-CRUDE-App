@@ -1,6 +1,6 @@
 # Telerik UI based CRUDE App
 
-[Note : The code is unavailable for sharing publically as I have used a template that i do not have rights to share online]
+[Note : The code is unavailable for sharing publically as I have used a template that i do not have rights to share online. So I have only uploaded snapshots of the project]
 
 It's an ASP .net core Razor page based CRUDE project but the purpose of working on this project 
 was to get familiar with Telerik UI Grid componant . 
